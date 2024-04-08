@@ -1,2 +1,3 @@
 # Meteor
-A Discord bot lol
+
+A Discrd bot created by @lyravox (Aka Juniper)!
